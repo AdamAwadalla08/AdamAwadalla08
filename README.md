@@ -8,4 +8,3 @@ mainly do software projects;
 
 - ODE/PDE's using FE/FV methods.
 
-- failing PhD applicant :/
