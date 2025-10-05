@@ -18,3 +18,4 @@ Recently got into:
 
 >[!TIP]
 >a lot of my big work is private, when public I will notify the world haha
+> Check out my work in progress portfolio [website](https://adamawadalla08.github.io/portfolio/)!! 
