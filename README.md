@@ -1,5 +1,9 @@
 #### Graduate Master's in Mechanical Engineering from the University of Sheffield
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,md,git,github,githubactions,latex,fortran,c,cpp,cmake,powershell,bash,linux,mint,html,css&perline=9" />
+  </a>
+</p>
 mainly do software projects;
 
 - Structural Dynamics
