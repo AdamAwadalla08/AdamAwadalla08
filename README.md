@@ -1,4 +1,5 @@
-#### Graduate Master's in Mechanical Engineering from the University of Sheffield
+### PhD Candidate in TU Delft Mechanical Engineering, Ships and Offshore Structures
+#### Master's in Mechanical Engineering, University of Sheffield
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,md,git,github,githubactions,latex,fortran,c,cpp,cmake,powershell,bash,linux,mint,html,css&perline=9" />
