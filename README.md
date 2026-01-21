@@ -1,4 +1,4 @@
-### PhD Candidate in TU Delft Mechanical Engineering, Ships and Offshore Structures
+### PhD Candidate in TU Delft Mechanical Engineering, [Ships and Offshore Structures](https://www.tudelft.nl/en/me/about/departments/maritime-and-transport-technology/research/ship-and-offshore-structures)
 #### Master's in Mechanical Engineering, University of Sheffield
 <p align="center">
   <a href="https://skillicons.dev">
